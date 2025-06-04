@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in Learning and sharing.
-- 🌱 I’m an IT Student at Machakos University.
+- 🌱 I’m a potential  IT Student undergraduate from Machakos University.
 - 💞️ I’m looking to collaborate, learn and educate.
 - 📫 How to reach me (+254719219076-whatsApp)
 <!---
