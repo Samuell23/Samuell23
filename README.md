@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Samuel
-- 👀 I’m interested in Learning and sharing.
-- 🌱 I’m a potential  IT Student undergraduate from Machakos University.
-- 💞️ I’m looking to collaborate, learn and educate.
-- 📫 How to reach me (+254719219076-whatsApp)
-<!---
-Samuell23/Samuell23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#  **`Hey there! 👋 I'm Samuel Oyugi`**  
+### *IT Student | Tech Enthusiast | Future Innovator*  
+*(Currently undergraduate from Machakos University 🎓)*  
+
+---
+
+### **🚀 About Me**  
+```python
+class Samuel:
+    def __init__(self):
+        self.interests = ["Coding", "AI Prompting", "Project Management", "Data Analytics"]
+        self.current_goal = "Land an internship/job in tech!"
+        self.learning = ["Python", "SQL", "Automation"]
+    
+    def say_hi(self):
+        print("Let's connect and build something awesome!")
+        
+me = Samuel()
+me.say_hi()
