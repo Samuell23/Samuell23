@@ -10,7 +10,7 @@
 - 🌱 Currently growing in:
   - Flutter & Dart 📱
   - Python 🐍
-  - Cybersecurity 🔐
+  - Data Science 🔐
   - Bluetooth Low Energy (BLE) technology 📶
 
 ---
