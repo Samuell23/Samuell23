@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Samuel!</h1>
-<h3 align="center">💻 Aspiring IT Professional | Learner | Collaborator | Educator</h3>
+<h3 align="center">💻 IT Professional | Learner | Collaborator | Educator</h3>
 
 ---
 
