@@ -4,13 +4,13 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I’m an **undergraduate in IT** from **Machakos University**, passionate about **technology**, **problem-solving**, and **building impactful solutions**.
-- 👀 I’m **interested in learning** and **sharing knowledge**, especially in areas like mobile apps, web development, and digital security.
+- 🎓 I’m an **IT graduate** from **Machakos University**, passionate about **technology**, **problem-solving**, and **building impactful solutions**.
+- 👀 I’m **interested in IT Data Project Management** and **Machine Learning**, especially in areas like mobile apps, web development, and digital security.
 - 🤝 I love **collaborating**, **learning from others**, and **educating fellow tech enthusiasts**.
 - 🌱 Currently growing in:
-  - Flutter & Dart 📱
+  - Data Science 📱
   - Python 🐍
-  - Data Science 🔐
+  - Model trainings 🔐
   - Bluetooth Low Energy (BLE) technology 📶
 
 ---
